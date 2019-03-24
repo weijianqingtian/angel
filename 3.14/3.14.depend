@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1553341807 source:c:\users\王天娇angel\documents\angel\3.14\main.cpp
+	<iostream>
+	"Employee.h"
+	<string>
+
+1553336088 c:\users\王天娇angel\documents\angel\3.14\employee.h
+	<string>
+
+1553341889 source:c:\users\王天娇angel\documents\angel\3.14\demo.cpp
+	<iostream>
+	"Employee.h"
+	<stdlib.h>
+
